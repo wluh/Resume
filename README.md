@@ -16,10 +16,10 @@ Sept 2019 - May 2023 (Expected)
 Introduction to Computer Programming, Introduction to Computer Science, Data Structures (in Java), Computer Systems Organization (in C), Calculus II, Data Science (in Python), Discrete Mathematics, Basic Algorithms, Operating Systems.
 
 #### Activities
-Logistics Director at Chinese Mei Society
-Outreach Team at NYU Instrumental Department
-Principal Violist at NYU Orchestra2
-Intramural Running
+- Logistics Director at Chinese Mei Society
+- Outreach Team at NYU Instrumental Department
+- Principal Violist at NYU Orchestra2
+- Intramural Running
 
 ---
 
