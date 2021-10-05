@@ -7,7 +7,7 @@ New York, NY and San Jose, CA
 I’m a student looking for opportunities for professional growth and learning, and a place to grow my career. I’m particularly interested in how technology and finance can intersect and have experience using Python for a variety of applications: data science and analysis, machine learning, image processing. I’ve also worked with C, Java, and Javascript.
 
 ### Education
-New York University, B.A. Computer Science (GPA: 3.7)
+**New York University**, B.A. Computer Science (GPA: 3.7)
 
 Sept 2019 - May 2023 (Expected)
 
