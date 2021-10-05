@@ -13,7 +13,14 @@ Sept 2019 - May 2023 (Expected)
 
 
 #### Coursework
-Introduction to Computer Programming, Introduction to Computer Science, Data Structures (in Java), Computer Systems Organization (in C), Calculus II, Data Science (in Python), Discrete Mathematics, Basic Algorithms, Operating Systems.
+- Introduction to Computer Programming
+- Introduction to Computer Science
+- Data Structures (in Java)
+- Computer Systems Organization (in C)
+- Calculus II, Data Science (in Python)
+- Discrete Mathematics
+- Basic Algorithms
+- Operating Systems
 
 #### Activities
 - Logistics Director at Chinese Mei Society
